@@ -1,7 +1,7 @@
 
 # Hello world :wave:
 
-My name is James, a developer that loves writing code with a goal to make the world a better place.
+My name is James, a developer who loves writing code with a goal to make the world a better place.
 
 Languages, tools and frameworks that I've worked with include, but are not limited to, 
 
