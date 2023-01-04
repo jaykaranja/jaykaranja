@@ -9,7 +9,7 @@ Languages, tools and frameworks that I've worked with include, but are not limit
 - Python
 - JavaScript
 - Django
-- ReactJS
+- React
 - NodeJS
 
 You can contact me using any of the means below, and I'll definetely reach back to you  :smile:
