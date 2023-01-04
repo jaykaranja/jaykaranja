@@ -12,15 +12,13 @@ Languages, tools and frameworks that I've worked with include, but are not limit
 - ReactJS
 - NodeJS
 
-<i class="fas fa-smile"></i>
-
 
 Check out the pinned projects below to check out some of the work I've done :point_down: :point_down:
 
 
 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/james-maina-8b07661b9), [Twitter](https://twitter.com/jaykaranja_)
 
-![Alt Text](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)
+## ![Alt Text](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)
 <!--
 **jaykaranja/jaykaranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
