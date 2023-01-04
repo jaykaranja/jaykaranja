@@ -12,6 +12,9 @@ Languages, tools and frameworks that I've worked with include, but are not limit
 - ReactJS
 - NodeJS
 
+<i class="fas fa-smile"></i>
+
+
 Check out the pinned projects below to check out some of the work I've done :point_down: :point_down:
 
 
