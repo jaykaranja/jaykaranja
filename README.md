@@ -12,7 +12,7 @@ Languages, tools and frameworks that I've worked with include, but are not limit
 - React
 - NodeJS
 
-[![Jay's GitHub stats](https://readme-stats-woad.vercel.app/api?username=jaykaranja)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://readme-stats-woad.vercel.app/api?username=jaykaranja)
 
 You can contact me using any of the means below, and I'll definetely reach back to you  :smile:
 
