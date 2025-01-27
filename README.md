@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm James from ....<br><br>- 🔭 I’m working as a software wizard<br>- 📚 I'm currently learning about model optimizations and stuff<br>- ⚡ In my free time I'm basically geeking code out for lunch :)</p>
+<p align="left">I'm James from Nairobi, KE<br><br>- 🔭 I’m working as a software wizard<br>- 📚 I'm currently learning about model optimizations and stuff<br>- ⚡ In my free time I'm basically geeking code out for lunch :)</p>
 
 ###
 
